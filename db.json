@@ -1,0 +1,28 @@
+{
+  "clientsdatabase": [
+    {
+      "nombre": "Sonia Martín Álvaro",
+      "empresa": "Saneamientos Vallehermoso",
+      "email": "sonia@gmail.com",
+      "telefono": "630250225",
+      "notas": "Este es el mensaje de Sony",
+      "id": 2
+    },
+    {
+      "nombre": "Miguel Ángel Gómez",
+      "empresa": "Saneamientos Vallehermoso",
+      "email": "charlyskunk@hotmail.com",
+      "telefono": "45364645",
+      "notas": "ASasASasasdfsdfsdfdsg",
+      "id": 4
+    },
+    {
+      "nombre": "Pipa",
+      "empresa": "Casa Patitas",
+      "email": "piponix@hotmail.com",
+      "telefono": "34699928204",
+      "notas": "tytyutyutyutyutyutyu",
+      "id": 5
+    }
+  ]
+}
